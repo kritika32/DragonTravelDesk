@@ -1,0 +1,12 @@
+#back{
+    background: url(dragonhd.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+body{
+    background:  url(dragonhd.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
